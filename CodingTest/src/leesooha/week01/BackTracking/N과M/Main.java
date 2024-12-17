@@ -1,4 +1,4 @@
-package leesooha.week01.BackTracking;
+package leesooha.week01.BackTracking.N과M;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
