@@ -35,7 +35,6 @@ PR에 적을 내용
 4. 투포인터, 구현
 5. 트리, 그래프
 
-## 문제
 
 1. 백트래킹
 
@@ -47,3 +46,25 @@ PR에 적을 내용
    - [가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722) <img src="https://static.solved.ac/tier_small/9.svg" height="25" align="center"/>
    - [퇴사2](https://www.acmicpc.net/problem/15486) <img src="https://static.solved.ac/tier_small/11.svg" height="25" align="center"/>
    - [배낭](https://www.acmicpc.net/problem/12865) <img src="https://static.solved.ac/tier_small/11.svg" height="25" align="center"/>
+
+## 문제
+
+| 주차 | 주제 | 문제 | 난이도 |
+| :-: | :-: | :--: | :--: |
+| **week01**|
+| | 백트래킹 | [N과M(12)](https://www.acmicpc.net/problem/15666) | <img src="https://static.solved.ac/tier_small/9.svg" height="25" align="center"/> |
+| | | [알파벳](https://www.acmicpc.net/problem/1987) | <img src="https://static.solved.ac/tier_small/12.svg" height="25" align="center"/> |
+| | | [좋은수열](https://www.acmicpc.net/problem/2661) | <img src="https://static.solved.ac/tier_small/12.svg" height="25" align="center"/> |
+| | DP | [가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722) | <img src="https://static.solved.ac/tier_small/9.svg" height="25" align="center"/> |
+| | | [퇴사2](https://www.acmicpc.net/problem/15486) | <img src="https://static.solved.ac/tier_small/11.svg" height="25" align="center"/> |
+| | | [배낭](https://www.acmicpc.net/problem/12865) | <img src="https://static.solved.ac/tier_small/11.svg" height="25" align="center"/> |
+| **week02**|
+| | BFS | [알고리즘 수업 - 깊이 우선 탐색 1](https://www.acmicpc.net/problem/24479) | <img src="https://static.solved.ac/tier_small/9.svg" height="25" align="center"/> |
+| | | [ABCDE](https://www.acmicpc.net/problem/13023) | <img src="https://static.solved.ac/tier_small/12.svg" height="25" align="center"/> |
+| | | [DFS 스페셜 저지](https://www.acmicpc.net/problem/16964) | <img src="https://static.solved.ac/tier_small/13.svg" height="25" align="center"/> |
+| | DFS | [그림](https://www.acmicpc.net/problem/1926) | <img src="https://static.solved.ac/tier_small/10.svg" height="25" align="center"/> |
+| | | [빙산](https://www.acmicpc.net/problem/2573) | <img src="https://static.solved.ac/tier_small/12.svg" height="25" align="center"/> |
+| | | [불켜기](https://www.acmicpc.net/problem/11967) | <img src="https://static.solved.ac/tier_small/14.svg" height="25" align="center"/> |
+| | 기타 | [BFS와 DFS](https://www.acmicpc.net/problem/1260) | <img src="https://static.solved.ac/tier_small/9.svg" height="25" align="center"/> |
+
+
