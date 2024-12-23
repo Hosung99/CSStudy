@@ -51,15 +51,4 @@ public class Main{
         }
         return true;
     }
-
-
-//    private static boolean checkBedSequence(int maxRange, int goodNumberLength) { //2 , 4
-//        for (int i = 1; i <= maxRange; i++) {
-//            int[] frontNum = Arrays.copyOfRange(goodSequence, goodNumberLength - i * 2, goodNumberLength - i);
-//            int[] backNum = Arrays.copyOfRange(goodSequence, goodNumberLength - i, goodNumberLength);
-//            if (Arrays.equals(frontNum, backNum))
-//                return false;
-//        }
-//        return true;
-//    }
 }
