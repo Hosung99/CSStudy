@@ -42,13 +42,24 @@ public class Main{
         }
     }
 
-    private static boolean checkBedSequence(int maxRange, int goodNumberLength) { //2 , 4
-        for (int i = 1; i <= maxRange; i++) {
-            int[] frontNum = Arrays.copyOfRange(goodSequence, goodNumberLength - i * 2, goodNumberLength - i);
-            int[] backNum = Arrays.copyOfRange(goodSequence, goodNumberLength - i, goodNumberLength);
-            if (Arrays.equals(frontNum, backNum))
+    private static boolean checkBedSequence(int maxSubSequenceLength, int currentSequenceLength) { //2 , 4
+        for (int subSequenceLength = 1; subSequenceLength <= maxSubSequenceLength; subSequenceLength++) {
+            int[] frontSubsequence = Arrays.copyOfRange(goodSequence, currentSequenceLength - subSequenceLength * 2, currentSequenceLength - subSequenceLength);
+            int[] backSubsequence = Arrays.copyOfRange(goodSequence, currentSequenceLength - subSequenceLength, currentSequenceLength);
+            if (Arrays.equals(frontSubsequence, backSubsequence))
                 return false;
         }
         return true;
     }
+
+
+//    private static boolean checkBedSequence(int maxRange, int goodNumberLength) { //2 , 4
+//        for (int i = 1; i <= maxRange; i++) {
+//            int[] frontNum = Arrays.copyOfRange(goodSequence, goodNumberLength - i * 2, goodNumberLength - i);
+//            int[] backNum = Arrays.copyOfRange(goodSequence, goodNumberLength - i, goodNumberLength);
+//            if (Arrays.equals(frontNum, backNum))
+//                return false;
+//        }
+//        return true;
+//    }
 }
