@@ -48,18 +48,6 @@ PR제목 : [week01] 손성호
 4. 투포인터, 구현
 5. 트리, 그래프
 
-
-1. 백트래킹
-
-   - [N과M(12)](https://www.acmicpc.net/problem/15666) <img src="https://static.solved.ac/tier_small/9.svg" height="25" align="center"/>
-   - [알파벳](https://www.acmicpc.net/problem/1987) <img src="https://static.solved.ac/tier_small/12.svg" height="25" align="center"/>
-   - [좋은수열](https://www.acmicpc.net/problem/2661) <img src="https://static.solved.ac/tier_small/12.svg" height="25" align="center"/>
-
-2. DP
-   - [가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722) <img src="https://static.solved.ac/tier_small/9.svg" height="25" align="center"/>
-   - [퇴사2](https://www.acmicpc.net/problem/15486) <img src="https://static.solved.ac/tier_small/11.svg" height="25" align="center"/>
-   - [배낭](https://www.acmicpc.net/problem/12865) <img src="https://static.solved.ac/tier_small/11.svg" height="25" align="center"/>
-
 ## 문제
 
 | 주차 | 주제 | 문제 | 난이도 |
