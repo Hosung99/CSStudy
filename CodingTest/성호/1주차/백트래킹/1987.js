@@ -1,5 +1,5 @@
 const fs = require("fs");
-const filePa얼th = process.platform === "linux" ? "/dev/stdin" : "test.txt";
+const filePath = process.platform === "linux" ? "/dev/stdin" : "test.txt";
 
 const input = fs.readFileSync(filePath).toString().trim().split("\n");
 const [R, C] = input[0].split(" ").map(Number);
