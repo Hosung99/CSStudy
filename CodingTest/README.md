@@ -67,5 +67,12 @@ PR제목 : [week01] 손성호
 | | | [빙산](https://www.acmicpc.net/problem/2573) | <img src="https://static.solved.ac/tier_small/12.svg" height="25" align="center"/> |
 | | | [불켜기](https://www.acmicpc.net/problem/11967) | <img src="https://static.solved.ac/tier_small/14.svg" height="25" align="center"/> |
 | | 기타 | [BFS와 DFS](https://www.acmicpc.net/problem/1260) | <img src="https://static.solved.ac/tier_small/9.svg" height="25" align="center"/> |
+| **week03**|
+| | 그리디 | [게임을 만든 동준이](https://www.acmicpc.net/problem/2847) | <img src="https://static.solved.ac/tier_small/7.svg" height="25" align="center"/> |
+| | | [강의실 배정](https://www.acmicpc.net/problem/11000) | <img src="https://static.solved.ac/tier_small/11.svg" height="25" align="center"/> |
+| | | [크게 만들기](https://www.acmicpc.net/problem/2812) | <img src="https://static.solved.ac/tier_small/13.svg" height="25" align="center"/> |
+| | 이분탐색 | [수찾기](https://www.acmicpc.net/problem/1920) | <img src="https://static.solved.ac/tier_small/7.svg" height="25" align="center"/> |
+| | | [나무자르기](https://www.acmicpc.net/problem/2805) | <img src="https://static.solved.ac/tier_small/9.svg" height="25" align="center"/> |
+| | | [휴게소세우기](https://www.acmicpc.net/problem/1477) | <img src="https://static.solved.ac/tier_small/12.svg" height="25" align="center"/> |
 
 
