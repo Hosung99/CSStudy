@@ -1,4 +1,4 @@
-package leesooha.week01.BackTracking.알파벳;
+package week01.BackTracking.알파벳;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -9,8 +9,8 @@ import java.util.HashSet;
 import java.util.Set;
 
 class Pair {
-    int x;
-    int y;
+    public int x;
+    public int y;
 
     Pair(int x, int y) {
         this.x = x;
@@ -59,10 +59,10 @@ class Solution {
 }
 
 public class Main {
-    static int[] dx = {0, 1, 0, -1};
-    static int[] dy = {1, 0, -1, 0};
-    static int r, c;
-    static Set<Character> alphabet = new HashSet<>();
+    public static int[] dx = {0, 1, 0, -1};
+    public static int[] dy = {1, 0, -1, 0};
+    public static int r, c;
+    public static Set<Character> alphabet = new HashSet<>();
     static Character[][] board;
     static Integer maxDist = 0;
 
