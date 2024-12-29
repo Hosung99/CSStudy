@@ -1,5 +1,3 @@
-package week01.BackTracking.좋은수열;
-
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.IOException;
