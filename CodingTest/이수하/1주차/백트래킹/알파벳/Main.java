@@ -1,5 +1,3 @@
-package week01.BackTracking.알파벳;
-
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.IOException;
