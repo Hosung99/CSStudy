@@ -74,5 +74,13 @@ PR제목 : [week01] 손성호
 | | 이분탐색 | [수찾기](https://www.acmicpc.net/problem/1920) | <img src="https://static.solved.ac/tier_small/7.svg" height="25" align="center"/> |
 | | | [나무자르기](https://www.acmicpc.net/problem/2805) | <img src="https://static.solved.ac/tier_small/9.svg" height="25" align="center"/> |
 | | | [휴게소세우기](https://www.acmicpc.net/problem/1477) | <img src="https://static.solved.ac/tier_small/12.svg" height="25" align="center"/> |
+| **week04**|
+| | 투포인터 | [수들의 합 2](https://www.acmicpc.net/problem/2003) | <img src="https://static.solved.ac/tier_small/7.svg" height="25" align="center"/> |
+| | | [수 고르기](https://www.acmicpc.net/problem/2230) | <img src="https://static.solved.ac/tier_small/11.svg" height="25" align="center"/> |
+| | | [같이 눈사람 만들래?](https://www.acmicpc.net/problem/20366) | <img src="https://static.solved.ac/tier_small/13.svg" height="25" align="center"/> |
+| | 구현 | [치킨 배달](https://www.acmicpc.net/problem/15686) | <img src="https://static.solved.ac/tier_small/11.svg" height="25" align="center"/> |
+| | | [미세먼지 안녕!](https://www.acmicpc.net/problem/17144) | <img src="https://static.solved.ac/tier_small/13.svg" height="25" align="center"/> |
+| | | [게리맨더링 2](https://www.acmicpc.net/problem/17779) | <img src="https://static.solved.ac/tier_small/13.svg" height="25" align="center"/> |
+
 
 
