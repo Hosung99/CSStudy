@@ -80,7 +80,10 @@ PR제목 : [week01] 손성호
 | | | [같이 눈사람 만들래?](https://www.acmicpc.net/problem/20366) | <img src="https://static.solved.ac/tier_small/13.svg" height="25" align="center"/> |
 | | 구현 | [치킨 배달](https://www.acmicpc.net/problem/15686) | <img src="https://static.solved.ac/tier_small/11.svg" height="25" align="center"/> |
 | | | [미세먼지 안녕!](https://www.acmicpc.net/problem/17144) | <img src="https://static.solved.ac/tier_small/13.svg" height="25" align="center"/> |
-| | | [게리맨더링 2](https://www.acmicpc.net/problem/17779) | <img src="https://static.solved.ac/tier_small/13.svg" height="25" align="center"/> |
-
+| **week05**|
+| | 그래프 | [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) | <img src="https://static.solved.ac/tier_small/10.svg" height="25" align="center"/> |
+| | | [이분 그래프](https://www.acmicpc.net/problem/1707) | <img src="https://static.solved.ac/tier_small/12.svg" height="25" align="center"/> |
+| | 트리 | [트리 순회](https://www.acmicpc.net/problem/1991) | <img src="https://static.solved.ac/tier_small/10.svg" height="25" align="center"/> |
+| | | [트리의 지름](https://www.acmicpc.net/problem/1967) | <img src="https://static.solved.ac/tier_small/12.svg" height="25" align="center"/> |
 
 
