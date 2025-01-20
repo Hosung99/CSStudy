@@ -85,5 +85,8 @@ PR제목 : [week01] 손성호
 | | | [이분 그래프](https://www.acmicpc.net/problem/1707) | <img src="https://static.solved.ac/tier_small/12.svg" height="25" align="center"/> |
 | | 트리 | [트리 순회](https://www.acmicpc.net/problem/1991) | <img src="https://static.solved.ac/tier_small/10.svg" height="25" align="center"/> |
 | | | [트리의 지름](https://www.acmicpc.net/problem/1967) | <img src="https://static.solved.ac/tier_small/12.svg" height="25" align="center"/> |
-
-
+| **week06**|
+| | 백트래킹 | [로또](https://www.acmicpc.net/problem/6603) | <img src="https://static.solved.ac/tier_small/9.svg" height="25" align="center"/> |
+| | | [소문난 칠공주](https://www.acmicpc.net/problem/1941) | <img src="https://static.solved.ac/tier_small/13.svg" height="25" align="center"/> |
+| | DP | [오르막수](https://www.acmicpc.net/problem/11057) | <img src="https://static.solved.ac/tier_small/10.svg" height="25" align="center"/> |
+| | | [자두나무](https://www.acmicpc.net/problem/2240) | <img src="https://static.solved.ac/tier_small/11.svg" height="25" align="center"/> |
