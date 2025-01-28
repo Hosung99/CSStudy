@@ -90,3 +90,8 @@ PR제목 : [week01] 손성호
 | | | [무기공학](https://www.acmicpc.net/problem/18430) | <img src="https://static.solved.ac/tier_small/12.svg" height="25" align="center"/> |
 | | DP | [오르막수](https://www.acmicpc.net/problem/11057) | <img src="https://static.solved.ac/tier_small/10.svg" height="25" align="center"/> |
 | | | [자두나무](https://www.acmicpc.net/problem/2240) | <img src="https://static.solved.ac/tier_small/11.svg" height="25" align="center"/> |
+| **week07**|
+| | | [단지번호붙이기](https://www.acmicpc.net/problem/2667) | <img src="https://static.solved.ac/tier_small/10.svg" height="25" align="center"/> |
+| |  | [숨바꼭질 4](https://www.acmicpc.net/problem/13913) | <img src="https://static.solved.ac/tier_small/12.svg" height="25" align="center"/> |
+| | | [안전영역](https://www.acmicpc.net/problem/2468) | <img src="https://static.solved.ac/tier_small/10.svg" height="25" align="center"/> |
+| | | [일루미네이션](https://www.acmicpc.net/problem/5547) | <img src="https://static.solved.ac/tier_small/12.svg" height="25" align="center"/> |
