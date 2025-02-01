@@ -30,3 +30,19 @@ public static void shallWeDance(List<Integer> indexs, int num, int len) {
 # 무기공학
 방법은 대충 맞췃지만 출력이 제대로 안되어서 답을 찾아보았다.
 
+3차원 dfs는 처음 해봐서 디버깅이 좀 힘들었던 것 같다. 
+블로그를 찾아보니 6개 경우의 모든 예외처리를 일일히 해주는 사람들이 좀 있었는데 한번에 처리하기 위해서 조건을 좀 생각하느라 좀 어려웠다.
+
+```java
+private static boolean isPossible(int i1, int i2, int j1, int j2) {
+        if (i1 < 0 || i2 < 0 || i1 >= N || i2 >= N) {
+            return false;
+        }
+        if (j1 < 0 || j2 < 0 || j1 >= M || j2 >= M) {
+            return false;
+        }
+        if (visited[i1][j1]) return false;
+        if (visited[i2][j2]) return false;
+        return true;
+    }
+```
