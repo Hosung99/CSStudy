@@ -100,3 +100,8 @@ PR제목 : [week01] 손성호
 | |  | [좋다](https://www.acmicpc.net/problem/1253) | <img src="https://static.solved.ac/tier_small/12.svg" height="25" align="center"/> |
 | | | [성적평균](https://softeer.ai/practice/6294) | LV3|
 | | | [징검다리](https://softeer.ai/practice/6293) | LV3|
+| **week09**| 투포인터, 구현 |
+| | | [배열 돌리기1](https://www.acmicpc.net/problem/16926) | <img src="https://static.solved.ac/tier_small/11.svg" height="25" align="center"/> |
+| |  | [회전 초밥](https://www.acmicpc.net/problem/15961) | <img src="https://static.solved.ac/tier_small/12.svg" height="25" align="center"/> |
+| | | [사다리타기](https://www.acmicpc.net/problem/2469) | <img src="https://static.solved.ac/tier_small/11.svg" height="25" align="center"/> |
+| | | [징검다리](https://www.acmicpc.net/problem/22862) | <img src="https://static.solved.ac/tier_small/11.svg" height="25" align="center"/> |
