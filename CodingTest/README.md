@@ -104,4 +104,4 @@ PR제목 : [week01] 손성호
 | | | [배열 돌리기1](https://www.acmicpc.net/problem/16926) | <img src="https://static.solved.ac/tier_small/11.svg" height="25" align="center"/> |
 | |  | [회전 초밥](https://www.acmicpc.net/problem/15961) | <img src="https://static.solved.ac/tier_small/12.svg" height="25" align="center"/> |
 | | | [사다리타기](https://www.acmicpc.net/problem/2469) | <img src="https://static.solved.ac/tier_small/11.svg" height="25" align="center"/> |
-| | | [징검다리](https://www.acmicpc.net/problem/22862) | <img src="https://static.solved.ac/tier_small/11.svg" height="25" align="center"/> |
+| | | [가장 긴 짝수 연속한 부분 수열](https://www.acmicpc.net/problem/22862) | <img src="https://static.solved.ac/tier_small/11.svg" height="25" align="center"/> |
