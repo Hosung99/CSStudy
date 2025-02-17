@@ -105,3 +105,8 @@ PR제목 : [week01] 손성호
 | |  | [회전 초밥](https://www.acmicpc.net/problem/15961) | <img src="https://static.solved.ac/tier_small/12.svg" height="25" align="center"/> |
 | | | [사다리타기](https://www.acmicpc.net/problem/2469) | <img src="https://static.solved.ac/tier_small/11.svg" height="25" align="center"/> |
 | | | [가장 긴 짝수 연속한 부분 수열](https://www.acmicpc.net/problem/22862) | <img src="https://static.solved.ac/tier_small/11.svg" height="25" align="center"/> |
+| **week10**| 문제집 |
+| | | [과일 탕후루](https://www.acmicpc.net/problem/30804) | <img src="https://static.solved.ac/tier_small/9.svg" height="25" align="center"/> |
+| | | [인간-컴퓨터 상호작용](https://www.acmicpc.net/problem/16139) | <img src="https://static.solved.ac/tier_small/10.svg" height="25" align="center"/> |
+| |  | [나이트의 이동](https://www.acmicpc.net/problem/7562) | <img src="https://static.solved.ac/tier_small/10.svg" height="25" align="center"/> |
+| | | [마법사 상어와 파이어스톰](https://www.acmicpc.net/problem/20058) | <img src="https://static.solved.ac/tier_small/13.svg" height="25" align="center"/> |
