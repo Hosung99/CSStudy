@@ -77,6 +77,4 @@ public class Main {
 ## 나이트의 이동
 이건 뭐 bfs 기본이라 로직은 쉽게 짰는데... \
 누군지 모르겟는데 휴면 에러 이슈로 dx, dy 배열을 이상하게 만들어서 계속 16퍼센트에서 틀리더라는 이야기가 들리더라구요 ..\
-![스크린샷 2025-02-24 오전 1.24.41.png](..%2F..%2F..%2F..%2F..%2F..%2Fvar%2Ffolders%2F7q%2Fb3x7_wy531n_2yfz8n129w8r0000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_AdnWWC%2F%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-02-24%20%EC%98%A4%EC%A0%84%201.24.41.png)
-
-
+![스크린샷 2025-02-24 오전 1.27.16.png](%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-02-24%20%EC%98%A4%EC%A0%84%201.27.16.png)
