@@ -110,3 +110,8 @@ PR제목 : [week01] 손성호
 | | | [인간-컴퓨터 상호작용](https://www.acmicpc.net/problem/16139) | <img src="https://static.solved.ac/tier_small/10.svg" height="25" align="center"/> |
 | |  | [나이트의 이동](https://www.acmicpc.net/problem/7562) | <img src="https://static.solved.ac/tier_small/10.svg" height="25" align="center"/> |
 | | | [마법사 상어와 파이어스톰](https://www.acmicpc.net/problem/20058) | <img src="https://static.solved.ac/tier_small/13.svg" height="25" align="center"/> |
+| **week11**| 문제집 |
+| | | [시험감독](https://www.acmicpc.net/problem/13458) | <img src="https://static.solved.ac/tier_small/4.svg" height="25" align="center"/> |
+| | | [진우의 달 여행 (Small)](https://www.acmicpc.net/problem/17484) | <img src="https://static.solved.ac/tier_small/8.svg" height="25" align="center"/> |
+| |  | [불 모으기](https://www.acmicpc.net/problem/17615) | <img src="https://static.solved.ac/tier_small/10.svg" height="25" align="center"/> |
+| | | [하늘에서 별똥별이 빗발친다](https://www.acmicpc.net/problem/14658) | <img src="https://static.solved.ac/tier_small/13.svg" height="25" align="center"/> |
