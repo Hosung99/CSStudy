@@ -115,3 +115,8 @@ PR제목 : [week01] 손성호
 | | | [진우의 달 여행 (Small)](https://www.acmicpc.net/problem/17484) | <img src="https://static.solved.ac/tier_small/8.svg" height="25" align="center"/> |
 | |  | [불 모으기](https://www.acmicpc.net/problem/17615) | <img src="https://static.solved.ac/tier_small/10.svg" height="25" align="center"/> |
 | | | [하늘에서 별똥별이 빗발친다](https://www.acmicpc.net/problem/14658) | <img src="https://static.solved.ac/tier_small/13.svg" height="25" align="center"/> |
+| **week12**| 문제집 |
+| | | [이 구역의 승자는 누구야?!](https://www.acmicpc.net/problem/20154) | <img src="https://static.solved.ac/tier_small/5.svg" height="25" align="center"/> |
+| | | [지구 온난화](https://www.acmicpc.net/problem/5212) | <img src="https://static.solved.ac/tier_small/9.svg" height="25" align="center"/> |
+| |  | [톱니바퀴](https://www.acmicpc.net/problem/14891) | <img src="https://static.solved.ac/tier_small/11.svg" height="25" align="center"/> |
+| | | [파일 탐색기](https://www.acmicpc.net/problem/20210) | <img src="https://static.solved.ac/tier_small/13.svg" height="25" align="center"/> |
