@@ -120,3 +120,8 @@ PR제목 : [week01] 손성호
 | | | [지구 온난화](https://www.acmicpc.net/problem/5212) | <img src="https://static.solved.ac/tier_small/9.svg" height="25" align="center"/> |
 | |  | [톱니바퀴](https://www.acmicpc.net/problem/14891) | <img src="https://static.solved.ac/tier_small/11.svg" height="25" align="center"/> |
 | | | [파일 탐색기](https://www.acmicpc.net/problem/20210) | <img src="https://static.solved.ac/tier_small/13.svg" height="25" align="center"/> |
+| **week13**| 문제집 |
+| | | [쉽게 푸는 문제](https://www.acmicpc.net/problem/1292) | <img src="https://static.solved.ac/tier_small/5.svg" height="25" align="center"/> |
+| | | [애너그램](https://www.acmicpc.net/problem/6443) | <img src="https://static.solved.ac/tier_small/11.svg" height="25" align="center"/> |
+| |  | [부분합](https://www.acmicpc.net/problem/1806) | <img src="https://static.solved.ac/tier_small/12.svg" height="25" align="center"/> |
+| | | [가르침](https://www.acmicpc.net/problem/1062) | <img src="https://static.solved.ac/tier_small/12.svg" height="25" align="center"/> |
