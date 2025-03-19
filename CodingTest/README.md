@@ -125,3 +125,8 @@ PR제목 : [week01] 손성호
 | | | [애너그램](https://www.acmicpc.net/problem/6443) | <img src="https://static.solved.ac/tier_small/11.svg" height="25" align="center"/> |
 | |  | [부분합](https://www.acmicpc.net/problem/1806) | <img src="https://static.solved.ac/tier_small/12.svg" height="25" align="center"/> |
 | | | [가르침](https://www.acmicpc.net/problem/1062) | <img src="https://static.solved.ac/tier_small/12.svg" height="25" align="center"/> |
+| **week14**| 백트래킹 |
+| | | [부분수열의 합](https://www.acmicpc.net/problem/1182) | <img src="https://static.solved.ac/tier_small/9.svg" height="25" align="center"/> |
+| | | [계란으로 계란치기](https://www.acmicpc.net/problem/16987) | <img src="https://static.solved.ac/tier_small/11.svg" height="25" align="center"/> |
+| |  | [스도쿠](https://www.acmicpc.net/problem/2580) | <img src="https://static.solved.ac/tier_small/12.svg" height="25" align="center"/> |
+| | | [죽음의 비](https://www.acmicpc.net/problem/22944) | <img src="https://static.solved.ac/tier_small/13.svg" height="25" align="center"/> |
