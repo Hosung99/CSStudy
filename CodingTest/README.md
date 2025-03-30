@@ -132,6 +132,6 @@ PR제목 : [week01] 손성호
 | | | [죽음의 비](https://www.acmicpc.net/problem/22944) | <img src="https://static.solved.ac/tier_small/13.svg" height="25" align="center"/> |
 | **week15**| 백트래킹, BFS |
 | | | [N과 M (11)](https://www.acmicpc.net/problem/15665) | <img src="https://static.solved.ac/tier_small/9.svg" height="25" align="center"/> |
-| | | [스타트링크](https://www.acmicpc.net/problem/5014) | <img src="https://static.solved.ac/tier_small/11.svg" height="25" align="center"/> |
-| |  | [선발명단](https://www.acmicpc.net/problem/3980) | <img src="https://static.solved.ac/tier_small/12.svg" height="25" align="center"/> |
+| | | [스타트링크](https://www.acmicpc.net/problem/5014) | <img src="https://static.solved.ac/tier_small/10.svg" height="25" align="center"/> |
+| |  | [선발명단](https://www.acmicpc.net/problem/3980) | <img src="https://static.solved.ac/tier_small/11.svg" height="25" align="center"/> |
 | | | [말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600) | <img src="https://static.solved.ac/tier_small/13.svg" height="25" align="center"/> |
