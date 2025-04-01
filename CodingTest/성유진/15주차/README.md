@@ -28,3 +28,8 @@ for (int i = 0; i < 11; i++) {
   ability -= s[i][depth];
 }
 ```
+
+## [스타트링크](https://www.acmicpc.net/problem/5014)
+### 문제 풀이 방식
+1차원 bfs 문제  
+버튼 누르는 횟수를 button이라는 배열에 저장하여 bfs를 해주었습니다.
