@@ -135,3 +135,8 @@ PR제목 : [week01] 손성호
 | | | [스타트링크](https://www.acmicpc.net/problem/5014) | <img src="https://static.solved.ac/tier_small/10.svg" height="25" align="center"/> |
 | |  | [선발명단](https://www.acmicpc.net/problem/3980) | <img src="https://static.solved.ac/tier_small/11.svg" height="25" align="center"/> |
 | | | [말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600) | <img src="https://static.solved.ac/tier_small/13.svg" height="25" align="center"/> |
+| **week16**| 문제집 |
+| | | [팰린드롬?](https://www.acmicpc.net/problem/10942) | <img src="https://static.solved.ac/tier_small/12.svg" height="25" align="center"/> |
+| | | [돌 그룹](https://www.acmicpc.net/problem/12886) | <img src="https://static.solved.ac/tier_small/12.svg" height="25" align="center"/> |
+| | | [댄스 파티](https://www.acmicpc.net/problem/2831) | <img src="https://static.solved.ac/tier_small/12.svg" height="25" align="center"/> |
+| | | [움직이는 미로 탈출](https://www.acmicpc.net/problem/16945) | <img src="https://static.solved.ac/tier_small/13.svg" height="25" align="center"/> |
