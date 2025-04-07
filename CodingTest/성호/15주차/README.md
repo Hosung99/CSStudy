@@ -102,8 +102,19 @@ while (i < male_pos.length && j < female_neg.length) {
 
 ## 문제 흐름
 
+딱봐도 bfs인데.. 벽이 내려가는걸 구현하는것이 어려웠다.
+
+turn을 이용해서 벽이 내려가는걸 구현해주었다.
+
+벽이 내려오는 시점을 currentTurn으로 체크해주고, turn이 currentTurn보다 크면 벽을 내려준다.
+
 ## 코드 설명
 
 ```js
-
+if (turn > currentTurn) {
+  for (let t = 0; t < turn - currentTurn; t++) {
+    wallDrop();
+  }
+  currentTurn = turn;
+}
 ```
