@@ -88,3 +88,44 @@ while (!bigMen.isEmpty() && !smallWomen.isEmpty()) {
     }
 }
 ```
+
+## 움직이는 미로 탈출
+일반적인 bfs와 거의 비슷한데 한 턴 마다 visited 배열을 초기화 해주어야하는 부분이 생소했다. \
+배열이 한 턴 마다 움직이니까 매 턴마다 visited 배열을 초기화하여 방문했었던 칸도 갈 수 있게 만들었다.\
+이러면 visited 배열이 의미가 없지 않냐? -> 그래도 한턴에서 큐에 최대로 들어가야하는 좌표는 최대 9개여야 한다. visited 배열이 없으면 이전 턴의 큐 좌표 갯수 * 9 개가 insert되어서 거의 무한 루프가 발생한다.
+
+```java
+while (!queue.isEmpty()) {
+            int size = queue.size();
+            visited = new boolean[8][8];
+
+            for (int loop = 0; loop < size; loop++) {
+                int[] poll = queue.poll();
+                int cx = poll[0];
+                int cy = poll[1];
+
+                if (map[cx][cy] == 1) continue;
+                if (cx == 0 && cy == 7) {
+                    System.out.println(1);
+                    return ;
+                }
+                for (int i = 0; i < dx.length; i++) {
+                    int nx = cx + dx[i];
+                    int ny = cy + dy[i];
+                    if (nx < 0 || ny < 0 || nx >= 8 || ny >= 8) continue;
+                    if (map[nx][ny] == 1) continue;
+                    if (visited[nx][ny]) continue;
+                    queue.add(new int[]{nx, ny});
+                    visited[nx][ny] = true;
+                }
+            }
+
+            for (int i = 7; i > 0; i--) {
+                for (int j = 0; j < 8; j++) {
+                    map[i][j] = map[i - 1][j];
+                }
+            }
+            for (int j = 0; j < 8; j++) map[0][j] = 0;
+        }
+```
+
