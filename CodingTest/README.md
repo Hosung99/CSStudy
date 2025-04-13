@@ -143,5 +143,5 @@ PR제목 : [week01] 손성호
 | **week17**| 문제집 |
 | | | [랭킹전 대기열](https://www.acmicpc.net/problem/20006) | <img src="https://static.solved.ac/tier_small/9.svg" height="25" align="center"/> |
 | | | [문자열 교환](https://www.acmicpc.net/problem/1522) | <img src="https://static.solved.ac/tier_small/10.svg" height="25" align="center"/> |
-| | | [단축키 지정](https://www.acmicpc.net/problem/1283) | <img src="https://static.solved.ac/tier_small/12.svg" height="25" align="center"/> |
-| | | [문자열 게임 2](https://www.acmicpc.net/problem/20437) | <img src="https://static.solved.ac/tier_small/13.svg" height="25" align="center"/> |
+| | | [단축키 지정](https://www.acmicpc.net/problem/1283) | <img src="https://static.solved.ac/tier_small/10.svg" height="25" align="center"/> |
+| | | [문자열 게임 2](https://www.acmicpc.net/problem/20437) | <img src="https://static.solved.ac/tier_small/11.svg" height="25" align="center"/> |
