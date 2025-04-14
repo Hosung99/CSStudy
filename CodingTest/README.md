@@ -145,3 +145,8 @@ PR제목 : [week01] 손성호
 | | | [문자열 교환](https://www.acmicpc.net/problem/1522) | <img src="https://static.solved.ac/tier_small/10.svg" height="25" align="center"/> |
 | | | [단축키 지정](https://www.acmicpc.net/problem/1283) | <img src="https://static.solved.ac/tier_small/10.svg" height="25" align="center"/> |
 | | | [문자열 게임 2](https://www.acmicpc.net/problem/20437) | <img src="https://static.solved.ac/tier_small/11.svg" height="25" align="center"/> |
+| **week18**| 문제집 |
+| | | [감시](https://www.acmicpc.net/problem/15683) | <img src="https://static.solved.ac/tier_small/13.svg" height="25" align="center"/> |
+| | | [미로만들기](https://www.acmicpc.net/problem/2665) | <img src="https://static.solved.ac/tier_small/12.svg" height="25" align="center"/> |
+| | | [트리의 부모 찾기](https://www.acmicpc.net/problem/11725) | <img src="https://static.solved.ac/tier_small/9.svg" height="25" align="center"/> |
+| | | [효율적인 해킹](https://www.acmicpc.net/problem/1325) | <img src="https://static.solved.ac/tier_small/10.svg" height="25" align="center"/> |
