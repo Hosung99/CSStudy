@@ -150,3 +150,8 @@ PR제목 : [week01] 손성호
 | | | [미로만들기](https://www.acmicpc.net/problem/2665) | <img src="https://static.solved.ac/tier_small/12.svg" height="25" align="center"/> |
 | | | [트리의 부모 찾기](https://www.acmicpc.net/problem/11725) | <img src="https://static.solved.ac/tier_small/9.svg" height="25" align="center"/> |
 | | | [효율적인 해킹](https://www.acmicpc.net/problem/1325) | <img src="https://static.solved.ac/tier_small/10.svg" height="25" align="center"/> |
+| **week19**| 문제집 |
+| | | [디지털 티비](https://www.acmicpc.net/problem/2816) | <img src="https://static.solved.ac/tier_small/5.svg" height="25" align="center"/> |
+| | | [A와 B 2](https://www.acmicpc.net/problem/12919) | <img src="https://static.solved.ac/tier_small/11.svg" height="25" align="center"/> |
+| | | [공유기 설치](https://www.acmicpc.net/problem/2110) | <img src="https://static.solved.ac/tier_small/12.svg" height="25" align="center"/> |
+| | | [내리막 길](https://www.acmicpc.net/problem/1520) | <img src="https://static.solved.ac/tier_small/13.svg" height="25" align="center"/> |
