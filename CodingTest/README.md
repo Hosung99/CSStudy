@@ -155,3 +155,8 @@ PR제목 : [week01] 손성호
 | | | [A와 B 2](https://www.acmicpc.net/problem/12919) | <img src="https://static.solved.ac/tier_small/11.svg" height="25" align="center"/> |
 | | | [공유기 설치](https://www.acmicpc.net/problem/2110) | <img src="https://static.solved.ac/tier_small/12.svg" height="25" align="center"/> |
 | | | [내리막 길](https://www.acmicpc.net/problem/1520) | <img src="https://static.solved.ac/tier_small/13.svg" height="25" align="center"/> |
+| **week20**| 문제집 |
+| | | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888) | <img src="https://static.solved.ac/tier_small/10.svg" height="25" align="center"/> |
+| | | [넴모넴모 (Easy)](https://www.acmicpc.net/problem/14712) | <img src="https://static.solved.ac/tier_small/11.svg" height="25" align="center"/> |
+| | | [줄어드는 수](https://www.acmicpc.net/problem/1174) | <img src="https://static.solved.ac/tier_small/11.svg" height="25" align="center"/> |
+| | | [입국 심사](https://www.acmicpc.net/problem/3079) | <img src="https://static.solved.ac/tier_small/11.svg" height="25" align="center"/> |
