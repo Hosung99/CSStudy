@@ -32,3 +32,27 @@ if (idx < listB.size()) {
     answer++;   
 }
 ```
+
+
+## [지게차와 크레인](https://school.programmers.co.kr/learn/courses/30/lessons/388353)
+지게차와 크레인에 따라서 removeAll, removeEdge함수로 나누어서 구현을 하였습니다.  
+핵심은 removeEdge였는데, bfs로 구현하였습니다.
+
+입력받은 stoarge의 가로세로를 2씩 늘려서, 가장자리가 0으로 채워져있는 배열인 current로 만들어서 사용하였습니다.  
+0,0부터 bfs를 진행하면서 가장자리인 경우에는 큐에 넣어주고, 찾는 알파벳인 경우에는 큐에 넣지 않고 current를 갱신해주었습니다.
+
+```java
+if (current[ni][nj] == 0) { // 가장자리
+  visited[ni][nj] = true;
+  Q.offer(new int[]{ni, nj});
+} else if (current[ni][nj] == c) { // 찾는 알파벳
+  visited[ni][nj] = true;
+  current[ni][nj] = 0;
+}
+```
+
+사실 이 풀이는 지피티가 고쳐준 풀이,,,  
+이 풀이가 맞는건 알겠는데! 반례를 정말 못 찾겠어서 기존 제 풀이가 틀렸다는 사실을 납득하지 못했었는데, 질문게시판에 올라온 반례를 보고 납득하였습니다...
+
+여기에 틀린 코드 전체와 반례 결과를 전부 옮기기엔 너무 길 것 같아서 궁금하시다면 [이 링크](https://spiffy-centipede-875.notion.site/1f062570e7c480ae8e7fd779422c05da?pvs=4) 에서 확인하시길 바랍니다~
+
