@@ -160,8 +160,13 @@ PR제목 : [week01] 손성호
 | | | [넴모넴모 (Easy)](https://www.acmicpc.net/problem/14712) | <img src="https://static.solved.ac/tier_small/11.svg" height="25" align="center"/> |
 | | | [줄어드는 수](https://www.acmicpc.net/problem/1174) | <img src="https://static.solved.ac/tier_small/11.svg" height="25" align="center"/> |
 | | | [입국 심사](https://www.acmicpc.net/problem/3079) | <img src="https://static.solved.ac/tier_small/11.svg" height="25" align="center"/> |
-| **week21**| 문제집 |
+| **week21**| 프로그래머스 |
 | | | [지게차와 크레인](https://school.programmers.co.kr/learn/courses/30/lessons/388353) | LV2 |
 | | | [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162) | LV3 |
 | | | [숫자 게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987) | LV3 |
 | | | [인사고과](https://school.programmers.co.kr/learn/courses/30/lessons/152995) | LV3 |
+| **week22**| 프로그래머스 |
+| | | [비밀 코드 해독](https://school.programmers.co.kr/learn/courses/30/lessons/388352) | LV2 |
+| | | [야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927) | LV3 |
+| | | [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163) | LV3 |
+| | | [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898) | LV3 |
