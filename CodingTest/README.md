@@ -170,3 +170,8 @@ PR제목 : [week01] 손성호
 | | | [야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927) | LV3 |
 | | | [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163) | LV3 |
 | | | [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898) | LV3 |
+| **week23**| 프로그래머스 |
+| | | [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626) | LV2 |
+| | | [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) | LV2 |
+| | | [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) | LV2 |
+| | | [N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895) | LV3 |
