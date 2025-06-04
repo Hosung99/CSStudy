@@ -11,3 +11,7 @@ N을 사용한 개수에 따라서 숫자를 저장한 점은 이전 풀이와 �
 ## [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)
 정석 BFS 문제!
 
+
+## [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)
+큐에 남은 원소가 하나인 경우에 예외처리만 주의하면, 우선순위 큐를 사용해서 쉽게 해결할 수 있는 문제였습니다.
+
