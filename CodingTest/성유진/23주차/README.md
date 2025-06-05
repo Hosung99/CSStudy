@@ -15,3 +15,7 @@ N을 사용한 개수에 따라서 숫자를 저장한 점은 이전 풀이와 �
 ## [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)
 큐에 남은 원소가 하나인 경우에 예외처리만 주의하면, 우선순위 큐를 사용해서 쉽게 해결할 수 있는 문제였습니다.
 
+
+## [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)
+숫자의 부호 조합의 경우의 수를 comb 함수에서 백트래킹으로 구하였습니다.
+주어진 숫자와 만든 조합으로 결과값을 타겟과 비교하여 풀이하였습니다.
